@@ -1,1 +1,3 @@
-# energy-insights-platform-4653
+# Project Repository
+
+This is the initial README file for the project.
